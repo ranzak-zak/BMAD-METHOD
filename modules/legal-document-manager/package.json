@@ -1,0 +1,26 @@
+{
+  "name": "legal-document-manager",
+  "version": "1.0.0",
+  "description": "A comprehensive document management and analysis system for legal professionals. Handles upload, creation, analysis, and organization of legal documents with multi-file support and case folder management.",
+  "keywords": [
+    "legal",
+    "document-management",
+    "analysis",
+    "case-management",
+    "law-firm"
+  ],
+  "license": "MIT",
+  "author": "Legal Tech Team",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "validate": "node tools/validate-schema.js"
+  },
+  "dependencies": {
+    "moment": "^2.30.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
