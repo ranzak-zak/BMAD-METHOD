@@ -17,6 +17,12 @@ Initialize and render the Canvas interface when document generation begins. Canv
 - Left panel (alongside Citations tab)
 - New tab labeled "Document"
 
+### Canvas Header (Document Metadata)
+Editable fields at the top of Canvas:
+- **Document Name** - editable text field
+- **Document Type** - selectable/editable field
+- **Brief Description** - short description field
+
 ### Behavior
 1. Document Mode triggers Canvas initialization
 2. Canvas tab is created and auto-focused
@@ -28,6 +34,7 @@ Initialize and render the Canvas interface when document generation begins. Canv
 - [ ] Canvas tab auto-focuses on initialization
 - [ ] User can switch between Canvas and Citations tabs
 - [ ] Visual identity matches Document Mode styling (purple/pink theme)
+- [ ] Document metadata fields (name, type, description) are visible and editable
 
 ### Design Reference
 See: Canvas mockup showing tab alongside Citations

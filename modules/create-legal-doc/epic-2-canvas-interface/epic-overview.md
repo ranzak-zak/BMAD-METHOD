@@ -69,6 +69,12 @@ This epic covers the Canvas document editor - initialization, rendering, editing
 - Tab: "Document" tab next to "Citations" tab
 - Auto-focus: Canvas tab activates on initialization
 
+### Canvas Header (Document Metadata)
+Editable fields at the top of Canvas for each document:
+- **Document Name** - editable text field
+- **Document Type** - selectable/editable field
+- **Brief Description** - short description field
+
 ### Toolbar
 - Alignment: Left, Right, Center, Justify
 - Text Direction: RTL / LTR toggle
